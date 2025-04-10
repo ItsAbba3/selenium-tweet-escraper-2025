@@ -1,6 +1,7 @@
-# TwitterScraper
+# Twitter Scraper
 
 TwitterScraper is a Python project that uses Selenium and BeautifulSoup to log in to Twitter, extract user profile information, and collect tweets from a given Twitter user ID.
+![Preview](CRAWL-TWITTER.webp)
 
 ## Important Notice
 
