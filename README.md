@@ -22,5 +22,5 @@ TwitterScraper is a Python project that uses Selenium and BeautifulSoup to log i
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/TwitterScraper.git
+   git clone [https://github.com/yourusername/TwitterScraper.git](https://github.com/ItsAbba3/selenium-tweet-escraper-2025.git)
    cd TwitterScraper
