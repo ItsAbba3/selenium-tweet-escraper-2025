@@ -22,8 +22,8 @@ TwitterScraper is a Python project that uses Selenium and BeautifulSoup to log i
 ## Requirements
 
 - Python 3.x
-- [Selenium](https://pypi.org/project/selenium/)
-- [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+- [Selenium]
+- [BeautifulSoup4]
 - Google Chrome browser
 - ChromeDriver (ensure that the version of ChromeDriver matches your installed version of Google Chrome)
 
@@ -32,5 +32,5 @@ TwitterScraper is a Python project that uses Selenium and BeautifulSoup to log i
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/yourusername/TwitterScraper.git](https://github.com/ItsAbba3/selenium-tweet-escraper-2025.git)
+   git clone https://github.com/ItsAbba3/selenium-tweet-escraper-2025.git
    cd TwitterScraper
